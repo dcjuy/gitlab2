@@ -1,6 +1,6 @@
 
 
-/*Count the number of customers*/
+/*Count the number of customers by gender*/
 
-select count(*)
+select count(gender)
 from customers;
